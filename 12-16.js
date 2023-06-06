@@ -245,13 +245,13 @@
 
 
 // question no 15 ////
-let phoneList = ['Apple', 'Samsung', 'Motorola', 'Nokia', 'Sony', 'Haier'];
-let index = 0;
- document.write('<select>')
- document.write('<option>' + phoneList[index++] + '<option>')
- document.write('<option>' + phoneList[index++] + '<option>')
- document.write('<option>' + phoneList[index++] + '<option>')
- document.write('<option>' + phoneList[index++] + '<option>')
-document.write('<option>' + phoneList[index++] + '<option>')
-document.write('<option>' + phoneList[index++] + '<option>')
-document.write('<select>')
+// let phoneList = ['Apple', 'Samsung', 'Motorola', 'Nokia', 'Sony', 'Haier'];
+// let index = 0;
+//  document.write('<select>')
+//  document.write('<option>' + phoneList[index++] + '<option>')
+//  document.write('<option>' + phoneList[index++] + '<option>')
+//  document.write('<option>' + phoneList[index++] + '<option>')
+//  document.write('<option>' + phoneList[index++] + '<option>')
+// document.write('<option>' + phoneList[index++] + '<option>')
+// document.write('<option>' + phoneList[index++] + '<option>')
+// document.write('<select>')
